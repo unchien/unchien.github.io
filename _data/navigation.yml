@@ -1,5 +1,10 @@
 header:
   - titles:
+      en      : Home
+      zh      : Home
+      zh_Hans : Home
+    url:  /
+  - titles:
       # @start locale config
       en      : &EN       Archive
       en-GB   : *EN
